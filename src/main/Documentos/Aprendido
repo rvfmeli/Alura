@@ -2,9 +2,16 @@
 
 ********* oque foi aprendido até o momento do curso da alura *************
 
+o3 - definindo comportamento
 
 como definir métodos com parâmetros e retorno
 como retornar algo usando a palavra chave return
 como usar a referência this para acessar um atributo
 que podemos passar uma referência como parâmetro do método
 métodos são chamadas a partir da referência usando o operador
+
+04 - composicao de objetos
+Realizar o relacionamento entre classes através de composição;
+Vantagens de se isolar informações repetidas em outra classe;
+Detalhes da composição;
+NullPointerException para atributos não inicializados e seus cuidados.
