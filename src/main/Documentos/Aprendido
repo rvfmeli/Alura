@@ -15,3 +15,10 @@ Realizar o relacionamento entre classes através de composição;
 Vantagens de se isolar informações repetidas em outra classe;
 Detalhes da composição;
 NullPointerException para atributos não inicializados e seus cuidados.
+
+05 - encapsulamento e visibilidade
+tributos privados, restringindo o acesso aos atributos
+Encapsulamento de código
+Métodos de leitura dos atributos, os getters
+Métodos de modificação dos atributos, os setters
+Getters e Setters de referência
