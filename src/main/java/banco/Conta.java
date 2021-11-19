@@ -30,7 +30,7 @@ public class Conta {
         return false;
     }
 
-    public ContaTotal(int agencia, int numero) {
+    public void ContaTotal(int agencia, int numero) {
         this.agencia = agencia;
         this.numero = numero;
 
