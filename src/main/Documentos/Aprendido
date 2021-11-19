@@ -30,4 +30,4 @@ Atributos da classe, os atributos estáticos
 Métodos da classe, os métodos estáticos
 Ausência de referência, do this, dentro de métodos estáticos
 
--- Os métodos estáticos acessam apenas atributos estáticos.
+-- Os métodos estáticos acessam apenas atributos estáticos...
