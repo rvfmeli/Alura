@@ -1,8 +1,11 @@
+import banco.Cliente;
 import banco.Conta;
 
 public class TestaMetodo {
 
     public static void main(String[] args) {
+
+        Conta conta = new Conta();
         Conta contaDoPaulo = new Conta();
         contaDoPaulo.saldo = 100;
         contaDoPaulo.deposita(50);
@@ -26,6 +29,12 @@ public class TestaMetodo {
         }
         System.out.println(contaDaMarcela.saldo);
         System.out.println(contaDoPaulo.saldo);
-    }
 
+
+        Cliente paulo = new Cliente();
+        paulo.setNome("paulo silveira");
+        System.out.println(conta.getTitular());
+
+        System.out.println(conta.getTitular());
+    }
 }
