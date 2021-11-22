@@ -1,5 +1,4 @@
-import banco.Cliente;
-import banco.Conta;
+package banco;
 
 public class TestaMetodo {
 
