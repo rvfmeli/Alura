@@ -1,0 +1,18 @@
+01 - Nessa aula começamos a falar sobre a herança e aprendemos:
+
+quais problemas a herança pode resolver
+como usar herança no Java através de palavra chave extends
+ao herdar, a classe filha ganha todas as características (atributos) e todas as funcionalidades (métodos) da classe mãe
+conhecemos o primeiro benefício da herança: Reutilização do código
+
+04 - heranca e uso de construtores
+
+Conceitos de herança, construtores e polimorfismo
+A utilização da anotação @Override
+Construtores não são herdados
+Um construtor da classe mãe pode ser chamado através do super()
+
+05 - O que são classes abstratas
+     Para que servem classes abstratas
+     O que são métodos abstratos
+     Para que servem métodos abstratos
