@@ -1,5 +1,7 @@
 package herdado;
-public class Gerente extends Funcionario {
+
+//Gerente é um funcionario e herda a classe FuncionarioAutential
+public class Gerente extends FuncionarioAutenticavel {
 	
 	private int senha;
 
